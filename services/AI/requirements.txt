@@ -1,0 +1,6 @@
+aiofiles
+python-multipart
+uvicorn
+requests
+fastapi
+gunicorn
